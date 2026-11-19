@@ -1,0 +1,16 @@
+{
+  "access_provider_type": "huaweicloud",
+  "binary": "huaweicloud-live.exe",
+  "capability": "deploy",
+  "category": "av",
+  "display_name_key": "plugin.huaweicloud-live.name",
+  "icon": "huaweicloud.svg",
+  "min_core_version": "",
+  "priority": 100,
+  "protocol_version": 4,
+  "provider_type": "huaweicloud-live",
+  "usages": [
+    "hosting"
+  ],
+  "version": "0.2.2"
+}
